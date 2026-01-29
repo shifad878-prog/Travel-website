@@ -1,0 +1,21 @@
+:root {
+    --primary:#FAFAFA;
+    --secondary:#1F1F1F;
+    --tertiary:#FEFEFF;
+}
+@font-face {
+    font-family: popins;
+    src: url(./);
+}
+.gcolor {
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
+.bg-color {
+    background-color: var(--primary);
+}
+.home {
+    color: var(--secondary);
+}
+.border-color {
+    background-color: var(--tertiary);
+}
