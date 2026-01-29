@@ -19,3 +19,13 @@
 .border-color {
     background-color: var(--tertiary);
 }
+.text-color {
+    color: #000000;
+}
+.position {
+    position: absolute;
+    right: 0px;
+}
+.hidden {
+    overflow: hidden;
+}
